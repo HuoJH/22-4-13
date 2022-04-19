@@ -41,9 +41,9 @@ __双下划线__
 
 可以利用多个`来实现区别显示
 ### 测试图片
-行内图片测试    
-![Alt text](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png "Optional title")    
-引用图片测试    
+**行内图片测试**    
+![Alt text](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png "百度图标")    
+**引用图片测试**    
 ![Alt text][id_fig]
 
-[id_fig]: https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png  "Optional title attribute"
+[id_fig]: https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png  "百度图标"
