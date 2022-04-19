@@ -22,4 +22,8 @@ This is a normal paragraph:
 ***
 ## 测试行内元素
 ### 测试链接
-这是一个网站链接[Baidu](http://www.baidu.com)
+这是一个网站链接[Baidu](http://www.baidu.com "百度官方网站")
+### 测试引用
+这是一个引用型链接 [示例][id]
+
+[id]: http://www.baidu.com/  "Optional Title Here"
