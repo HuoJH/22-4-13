@@ -24,6 +24,26 @@ This is a normal paragraph:
 ### 测试链接
 这是一个网站链接[Baidu](http://www.baidu.com "百度官方网站")
 ### 测试引用
-这是一个引用型链接 [示例][id]
+这是一个引用型链接 [引用示例][id]
 
 [id]: http://www.baidu.com/  "Optional Title Here"
+### 测试强调
+*单星号*
+
+_单下划线_
+
+**双星号**
+
+__双下划线__
+
+### 测试行内代码
+使用`来产生行内代码段 ``printf()``部分.
+
+可以利用多个`来实现区别显示
+### 测试图片
+行内图片测试    
+![Alt text](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png "Optional title")    
+引用图片测试    
+![Alt text][id_fig]
+
+[id_fig]: https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png  "Optional title attribute"
